@@ -14,6 +14,12 @@ project at the repo root).
 > **Scope note:** the output is a *single-colour* analog RGB load (the whole strip shows
 > one colour at a time). It is **not** an addressable 12 V (WS2815) re-transmitter — it
 > reduces the incoming addressable stream to LED[0]'s colour and drives R/G/B rails.
+## Photo
+
+![PCB mounted on fan with strobe effect](./pcb_shot.jpg)
+
+*The converter board mounted directly on a 12 V fan ring, driven from a 5 V ARGB header.
+Strobe FX enabled — the spinning fan splits the green output into rotating arcs.*
 
 ---
 
